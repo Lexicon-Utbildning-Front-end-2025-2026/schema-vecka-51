@@ -3,7 +3,7 @@
 ## 📅 Måndag
 
 ### Mål för dagen
-* Förstå och kunna använda sig av Media Queries och COntainer Queries.
+* Förstå och kunna använda sig av Media Queries och Container Queries.
 
 ### E‑Learning
 * [(YT - Kevin Powell) Learn how to use Media queries & Container queries](https://www.youtube.com/watch?v=2rlWBZ17Wes)
