@@ -48,13 +48,8 @@
 ## 📅 Torsdag
 
 ### Mål för dagen
-* Formulär forts? Dialog/modal?
-
-### E‑Learning
-
-### Läsning
-
-### Övningar
+* Studieteknik.
+Diskusioner om hur vi ska kunna lära oss och ta åt oss utbildningen på ett bättre sätt, samt diskussioner med inblick i branschen. Hur fungerar det att komma in i branschen och börja jobba utan eller med lite erfarenhet.
 
 ---
 
