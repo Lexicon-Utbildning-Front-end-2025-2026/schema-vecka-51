@@ -61,10 +61,7 @@
 ## 📅 Fredag
 
 ### Mål för dagen
-
-### E‑Learning
-
-### Läsning
+* Fördjupa förståelsen av veckans begrepp genom att prata kod.
 
 ### Övningar
 
