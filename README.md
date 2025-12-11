@@ -25,6 +25,7 @@
 
 ### E‑Learning
 * [(YT - Coding2GO) - Stop using so many Media Queries - Use Clamp() instead!](https://www.youtube.com/watch?v=pYW3O0AxpI8)
+* [(YT - Kevin Powell) - min(), max(), and clamp() are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo)
 
 ### Läsning
 
