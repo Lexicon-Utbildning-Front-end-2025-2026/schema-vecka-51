@@ -23,6 +23,7 @@
 * Kunna använda sig av Clamp, Min och Max.
 
 ### E‑Learning
+* [(YT - COdeing2GO) - Stop using so many Media Queries - Use Clamp() instead!](https://www.youtube.com/watch?v=pYW3O0AxpI8)
 
 ### Läsning
 
