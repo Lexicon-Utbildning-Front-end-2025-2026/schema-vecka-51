@@ -45,6 +45,9 @@
 
 ### Övningar
 
+## Code Along
+* [(YT - Kevin Powell) - A deceptively complex form / HTML & CSS / Frontend Mentor](https://www.youtube.com/watch?v=jJgNgNNHqjk)
+
 ---
 
 ## 📅 Torsdag
