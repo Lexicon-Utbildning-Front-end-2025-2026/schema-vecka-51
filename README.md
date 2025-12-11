@@ -14,6 +14,7 @@
 
 
 ### Övningar
+* [(Pluralsight) - Guided: Responsive Design with Media Queries](https://app.pluralsight.com/code-labs/lessons/3c7f9ccf-4fbf-4032-a291-5596f278345d?access_token=E9DE4E49F149FB5C96CB312FCAE8AE14&step_id=fa280442-776b-43fb-a83c-6f0a3006412d)
 
 ---
 
