@@ -7,6 +7,7 @@
 * Kunna använda sig av Clamp, Min och Max.
 
 ### E‑Learning
+* [(YT - Kevin Powell) - HTML & CSS for Absolute Beginners: Media Query basics - making a layout responsive](https://www.youtube.com/watch?v=QGb-W-c-gIM)
 * Delen om Container queries är överkurs - [(YT - Kevin Powell) Learn how to use Media queries & Container queries](https://www.youtube.com/watch?v=2rlWBZ17Wes)
 * Överkurs för de som vill - [(YT - Kevin Powell) New CSS Units! Container Query Units explained](https://www.youtube.com/watch?v=ZSaAHb5dRwQ)
 * [(YT - Coding2GO) - Stop using so many Media Queries - Use Clamp() instead!](https://www.youtube.com/watch?v=pYW3O0AxpI8)
