@@ -25,10 +25,10 @@
 * [(YT - Kevin Powell) - min(), max(), and clamp() are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo)
 
 ### Läsning
-* [(MDN) - Test your skills: Responsive web design and media queries](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Responsive_design)
-
+* [(MDN) - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using)
 
 ### Övningar
+* [(MDN) - Test your skills: Responsive web design and media queries](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Responsive_design)
 * [(Pluralsight) - Guided: Responsive Design with Media Queries](https://app.pluralsight.com/code-labs/lessons/3c7f9ccf-4fbf-4032-a291-5596f278345d?access_token=E9DE4E49F149FB5C96CB312FCAE8AE14&step_id=fa280442-776b-43fb-a83c-6f0a3006412d)
 
 ---
