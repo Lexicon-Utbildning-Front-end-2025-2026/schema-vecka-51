@@ -3,6 +3,17 @@
 ## 📅 Måndag
 
 ### Mål för dagen
+* Eget arbete med det man känner att man behöver eller ligger efter med.
+
+### Förslag:
+* [Frontend Mentor Challenges](https://www.frontendmentor.io/challenges?difficulty=1%2C2&languages=CSS&type=free%2Cfree-plus)
+* [(YT - Kevin Powell) Frontend Mentor lösningar](https://www.youtube.com/playlist?list=PL4-IK0AVhVjPregcc6pgAIerVqSWaJEM4)
+
+---
+
+## 📅 Tisdag
+
+### Mål för dagen
 * Förstå och kunna använda sig av Media Queries och Container Queries.
 * Kunna använda sig av Clamp, Min och Max.
 
@@ -19,19 +30,6 @@
 
 ### Övningar
 * [(Pluralsight) - Guided: Responsive Design with Media Queries](https://app.pluralsight.com/code-labs/lessons/3c7f9ccf-4fbf-4032-a291-5596f278345d?access_token=E9DE4E49F149FB5C96CB312FCAE8AE14&step_id=fa280442-776b-43fb-a83c-6f0a3006412d)
-
----
-
-## 📅 Tisdag
-
-### Mål för dagen
-Vi återkommer... :)
-
-### E‑Learning
-
-### Läsning
-
-### Övningar
 
 ---
 
