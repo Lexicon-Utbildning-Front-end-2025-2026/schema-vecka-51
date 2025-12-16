@@ -14,7 +14,7 @@
 ## 📅 Tisdag
 
 ### Mål för dagen
-* Förstå och kunna använda sig av Media Queries och Container Queries.
+* Förstå och kunna använda sig av Media Queries (och Container Queries för de som vill).
 * Kunna använda sig av Clamp, Min och Max.
 
 ### E‑Learning
