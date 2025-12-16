@@ -56,9 +56,11 @@
 
 ### Läsning
 
+- [(MDN) - Your first form](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Your_first_form)
+
 ### Övningar
 
-- [(Formulär)](https://github.com/linuszocom/forms-uppgift/blob/main/README.md)
+- [(Formulär) - Skapa formulär ](https://github.com/linuszocom/forms-uppgift/blob/main/README.md)
 
 ### Code Along
 
