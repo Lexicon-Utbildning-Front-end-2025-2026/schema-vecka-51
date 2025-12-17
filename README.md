@@ -85,4 +85,24 @@
 
 Code Review på onsdagens övning [(formulär till receptsidan)](https://github.com/linuszocom/forms-uppgift/blob/main/README.md)
 
-### Övningar
+### Instruktioner
+
+Alla ska ha sin kod uppladdat på ett publikt repo på sin github.
+
+Senast kl 8 på morgonen postar alla länkarna till sina repon i resp gruppchatt.
+
+Den som står som nummer 1 i grupplistan, tittar på koden för den person som står som nr 2.
+Den som står nummer 2 tittar på koden för person nr 3, osv...
+Den som står sist i resp grupp, tittar på person nr 1's kod.
+
+Ni har fram till kl 9.00 på er att studera koden, och öva er på att förklara den för de andra.
+
+Efter morgonmötet kl 9.15 , går ni till era grupper och går igenom vad ni kommit fram till med varandras koder.
+
+I gruppen turas ni sedan om att försöka förklara koden för de andra på ett bra sätt.
+Fokus ska vara att sätta sig in i någons annans kod och sedan kunna förklara den.
+
+Ni behöver inte förklara varenda rad med kod. 
+Försök förklara de delarna som vi arbetat med i veckan, som media queries, min(), max(), clamp() och hur personen implementerat formulär på sidan. Försök gå igenom formulärbiten först.
+
+Har ni tid över får ni även prata lite om vad ni tycker att andra har gjort bra i antingen sina förklaringar eller i sin kod.
