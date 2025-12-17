@@ -83,4 +83,6 @@
 
 - Fördjupa förståelsen av veckans begrepp genom att prata kod.
 
+Code Review på onsdagens övning [(formulär till receptsidan)](https://github.com/linuszocom/forms-uppgift/blob/main/README.md)
+
 ### Övningar
