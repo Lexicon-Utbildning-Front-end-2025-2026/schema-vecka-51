@@ -82,27 +82,27 @@
 ### Mål för dagen
 
 - Fördjupa förståelsen av veckans begrepp genom att prata kod.
-
-Code Review på onsdagens övning [(formulär till receptsidan)](https://github.com/linuszocom/forms-uppgift/blob/main/README.md)
+- Kunna sätta sig in i någons annans kod och sedan kunna förklara den.
 
 ### Instruktioner
+1. Alla ska ha sin kod uppladdat på ett publikt repo på sin github.
+   
+2. Senast kl 8 på morgonen postar alla länkarna till sina repon i resp gruppchatt. Ni har sen fram till kl 9.00 på er att studera koden, och öva er på att förklara den för de andra.
+   
+3. Antingen klona repot eller läs direkt på GitHub den kod du ska redovisa. 
+  Den som står som nummer 1 i grupplistan, tittar på koden för den person som står som nr 2.
+  Den som står nummer 2 tittar på koden för person nr 3, osv...
+  Den som står sist i resp grupp, tittar på person nr 1's kod.
 
-Alla ska ha sin kod uppladdat på ett publikt repo på sin github.
+4. Efter morgonmötet går ni till era grupper och kör rundan med att förklara för de andra i gruppen.
 
-Senast kl 8 på morgonen postar alla länkarna till sina repon i resp gruppchatt.
+5. Förklara inte all kod utan håll fokus på formuläret (endast punkt 3 i övningen) i första hand. Hinner ni kan ni även ta om personen använt min, max eller clamp på sidan.
 
-Den som står som nummer 1 i grupplistan, tittar på koden för den person som står som nr 2.
-Den som står nummer 2 tittar på koden för person nr 3, osv...
-Den som står sist i resp grupp, tittar på person nr 1's kod.
+6. Avsluta din presentation med:
+   * 1 sak du tyckte var bra eller intressant med koden
+   * 1 sak du tänker skulle kunna göra den ännu bättre
 
-Ni har fram till kl 9.00 på er att studera koden, och öva er på att förklara den för de andra.
-
-Efter morgonmötet kl 9.15 , går ni till era grupper och går igenom vad ni kommit fram till med varandras koder.
-
-I gruppen turas ni sedan om att försöka förklara koden för de andra på ett bra sätt.
-Fokus ska vara att sätta sig in i någons annans kod och sedan kunna förklara den.
-
-Ni behöver inte förklara varenda rad med kod. 
-Försök förklara de delarna som vi arbetat med i veckan, som media queries, min(), max(), clamp() och hur personen implementerat formulär på sidan. Försök gå igenom formulärbiten först.
-
-Har ni tid över får ni även prata lite om vad ni tycker att andra har gjort bra i antingen sina förklaringar eller i sin kod.
+7. Avslutande diskussion - Diskutera i gruppen:
+  * Hur var det att förklara någon annans kod, var det någon skillnad mot att förklara sin egen?
+  * Hur var det att höra någon annan förklara er egen kod?
+  * Extra om ni hinner - Vad tyckte ni var mest intressant under torsdagens snack?
