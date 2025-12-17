@@ -87,12 +87,12 @@
 ### Instruktioner
 1. Alla ska ha sin kod uppladdat på ett publikt repo på sin github.
    
-2. Senast kl 8 på morgonen postar alla länkarna till sina repon i resp gruppchatt. Ni har sen fram till kl 9.00 på er att studera koden, och öva er på att förklara den för de andra.
+2. Senast kl 8 på morgonen postar alla länkarna till sina repon i resp gruppchatt. Ni har sen fram till kl 9.00 på er att studera koden och öva er på att förklara den för de andra.
    
 3. Antingen klona repot eller läs direkt på GitHub den kod du ska redovisa. 
-  Den som står som nummer 1 i grupplistan, tittar på koden för den person som står som nr 2.
-  Den som står nummer 2 tittar på koden för person nr 3, osv...
-  Den som står sist i resp grupp, tittar på person nr 1's kod.
+  * Den som står som nummer 1 i grupplistan, tittar på koden för den person som står som nr 2.
+  * Den som står nummer 2 tittar på koden för person nr 3, osv...
+  * Den som står sist i resp grupp, tittar på person nr 1's kod.
 
 4. Efter morgonmötet går ni till era grupper och kör rundan med att förklara för de andra i gruppen.
 
